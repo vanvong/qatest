@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152" started-at="2018-05-05T13:32:40Z" finished-at="2018-05-05T13:32:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152" started-at="2018-05-05T13:32:40Z" finished-at="2018-05-05T13:32:41Z">
+      <class name="com.twobulls.qatest.assessment.QALoop">
+        <test-method status="PASS" signature="testForCount4To55()[pri:0, instance:com.twobulls.qatest.assessment.QALoop@224edc67]" name="testForCount4To55" duration-ms="52" started-at="2018-05-05T13:32:40Z" finished-at="2018-05-05T13:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForCount4To55 -->
+        <test-method status="PASS" signature="testWhileCount4To55()[pri:0, instance:com.twobulls.qatest.assessment.QALoop@224edc67]" name="testWhileCount4To55" duration-ms="5" started-at="2018-05-05T13:32:41Z" finished-at="2018-05-05T13:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhileCount4To55 -->
+      </class> <!-- com.twobulls.qatest.assessment.QALoop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

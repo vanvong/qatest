@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ TestSuite]">
+  <test thread-count="5" name="TestSuiteTask3(failed)">
+    <classes>
+      <class name="com.twobulls.qatest.assessment.QA1">
+        <methods>
+          <include name="testQAURL"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.twobulls.qatest.assessment.QA1 -->
+    </classes>
+  </test> <!-- TestSuiteTask3(failed) -->
+</suite> <!-- Failed suite [ TestSuite] -->
